@@ -1,0 +1,37 @@
+MESS_MENU = {
+    "monday": {
+        "breakfast": "Aloo Paratha, Bread, Butter, Jam, Boiled Egg, Tea/Coffee",
+        "lunch": "Rajma Masala, Bhindi Fry, Jeera Rice, Chappati, Curd, Salad, Pickle, Sweet",
+        "dinner": "Egg Curry, Aloo Gobi, Rice, Chappati, Salad, Pickle, Sweet"
+    },
+    "tuesday": {
+        "breakfast": "Veg Sandwich, Bread, Butter, Jam, Boiled Egg, Tea/Coffee",
+        "lunch": "Kadhi Pakoda, Paneer Butter Masala, Veg Pulao, Chappati, Curd, Salad, Pickle, Sweet",
+        "dinner": "Mushroom Masala, Mix Veg, Rice, Chappati, Salad, Pickle, Sweet"
+    },
+    "wednesday": {
+        "breakfast": "Bread Pakoda, Bread, Butter, Jam, Boiled Egg, Tea/Coffee",
+        "lunch": "Dal Makhani, Shahi Paneer, Veg Fried Rice, Chappati, Curd, Salad, Pickle, Sweet",
+        "dinner": "Chicken Kadhai, Paneer Masala, Rice, Chappati, Salad, Pickle, Sweet"
+    },
+    "thursday": {
+        "breakfast": "Poha, Bread, Butter, Jam, Boiled Egg, Tea/Coffee",
+        "lunch": "Chole Masala, Dum Aloo, Jeera Rice, Chappati, Curd, Salad, Pickle, Sweet",
+        "dinner": "Palak Paneer, Mix Veg, Rice, Chappati, Salad, Pickle, Sweet"
+    },
+    "friday": {
+        "breakfast": "Cheese Sandwich, Bread, Butter, Jam, Boiled Egg, Tea/Coffee",
+        "lunch": "Matar Paneer, Veg Kofta, Veg Pulao, Chappati, Curd, Salad, Pickle, Sweet",
+        "dinner": "Chicken Curry, Veg Kofta, Rice, Chappati, Salad, Pickle, Sweet"
+    },
+    "saturday": {
+        "breakfast": "Masala Dosa, Sambhar, Chutney, Boiled Egg, Tea/Coffee",
+        "lunch": "Sarson Ka Saag, Shahi Paneer, Rice, Chappati, Curd, Salad, Pickle, Sweet",
+        "dinner": "Mix Veg, Rajma Masala, Rice, Chappati, Salad, Pickle, Sweet"
+    },
+    "sunday": {
+        "breakfast": "Chole Bhature, Boiled Egg, Tea/Coffee",
+        "lunch": "Veg Biryani, Raita, Salad, Pickle, Sweet",
+        "dinner": "Aloo Jeera, Chana Masala, Rice, Chappati, Salad, Pickle, Sweet"
+    }
+}
